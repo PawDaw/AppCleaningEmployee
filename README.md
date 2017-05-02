@@ -13,7 +13,7 @@ The purpose of the application is to support an ordering process of the cleaning
 ## Screenshots
 
 <p align="center">
-  <img src="example.png" width="350"/>
+  <img src="example_1.png" width="350"/>
 </p>
 
 
