@@ -14,6 +14,7 @@ The purpose of the application is to support an ordering process of the cleaning
 
 <p align="center">
   <img src="example_new.png" width="350"/>
+<img src="login_employee.gif" width="350"/>
 </p>
 
 
