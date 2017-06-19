@@ -5,16 +5,36 @@ The purpose of the application is to support an ordering process of the cleaning
 ```
 * JAVA
 * FIREBASE
-* AsyncTASK
+* Geolocation
 * ...
 
 ```
 
-## Screenshots
+## The Login view.
+
 
 <p align="center">
-  <img src="example_new.png" width="350"/>
-<img src="login_employee.gif" width="350"/>
+   <img src="login_employee.gif" width="350"/>
 </p>
 
 
+## Employee views
+
+<p align="center">
+<img src="image_1.png" width="350"/>
+<img src=image_2.png" width="350"/>
+
+</p>
+
+
+<p align="center">
+<img src="image_3.png" width="350"/>
+<img src=image_4.png" width="350"/>
+
+</p>
+
+<p align="center">
+<img src="image_5.png" width="350"/>
+<img src=image_6.png" width="350"/>
+
+</p>
