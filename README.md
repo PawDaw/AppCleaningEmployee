@@ -22,19 +22,19 @@ The purpose of the application is to support an ordering process of the cleaning
 
 <p align="center">
 <img src="image_1.png" width="350"/>
-<img src=image_2.png" width="350"/>
+<img src="image_2.png" width="350"/>
 
 </p>
 
 
 <p align="center">
 <img src="image_3.png" width="350"/>
-<img src=image_4.png" width="350"/>
+<img src="image_4.png" width="350"/>
 
 </p>
 
 <p align="center">
 <img src="image_5.png" width="350"/>
-<img src=image_6.png" width="350"/>
+<img src="image_6.png" width="350"/>
 
 </p>
