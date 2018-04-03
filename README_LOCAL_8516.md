@@ -38,4 +38,3 @@ The purpose of the application is to support an ordering process of the cleaning
 <img src="image_6.png" width="350"/>
 
 </p>
-
