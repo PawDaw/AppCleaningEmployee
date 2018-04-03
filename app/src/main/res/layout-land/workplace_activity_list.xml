@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:baselineAligned="false"
+              android:orientation="horizontal"
+              android:animateLayoutChanges="true">
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:id="@+id/side_layout"
+
+            class="com.example.pawdaw.ordering_cleaning_products.model.fragments.List_Fragment"/>
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_weight="2"
+            android:layout_height="match_parent"
+            android:id="@+id/description_layout"
+
+            class="com.example.pawdaw.ordering_cleaning_products.model.fragments.DescriptionFragment"/>
+
+
+    </LinearLayout>

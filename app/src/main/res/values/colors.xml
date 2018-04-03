@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#33424C</color>
+    <color name="colorPrimaryDark">#33424C</color>
+    <color name="colorAccent">#F3F4F3</color>
+    <color name="darkGray">#5C7785</color>
+    <color name="fontLight">#D8D8D8</color>
+    <color name="saveButtonColor">#70C9E1</color>
+    <color name="textButtonColor">#34495E</color>
+    <color name="loginButton">#70C9E1</color>
+    <color name="loginButtonPressed">#FFFFFF</color>
+    <color name="bgTitleRight">#ffffff</color>
+    <color name="contentDividerLine">#e0e0e0</color>
+    <color name="registerButton">#4F5E68</color>
+    <color name="requiredCleaningUntilValue">#adafb1</color>
+
+
+    <color name="row_today_color">#22B328</color>
+    <color name="row_date_color">#F63838</color>
+</resources>

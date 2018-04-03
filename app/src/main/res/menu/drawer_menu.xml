@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/my_overview"
+            android:icon="@drawable/house_icon"
+            android:title="My overview"/>
+        <item
+            android:id="@+id/reports"
+            android:icon="@drawable/message"
+            android:title="@string/reviews"/>
+
+    </group>
+
+    <item android:title="Information">
+        <menu>
+            <item
+                android:id="@+id/nav_info"
+                android:icon="@drawable/info"
+                android:title="Terms and conditions"/>
+        </menu>
+
+
+    </item>
+
+    <item android:title="Contact Manager">
+        <menu>
+            <item
+                android:id="@+id/nav_phone"
+                android:icon="@drawable/call_icon"
+                android:title="Call"/>
+            <item
+                android:id="@+id/nav_email"
+                android:icon="@drawable/send_message"
+                android:title="Send Message"/>
+        </menu>
+
+
+    </item>
+
+</menu>
